@@ -1,0 +1,79 @@
+html{
+    font-family: 'Times New Roman', Times, sans-serif;
+    background-image: url(../Img/FondoEstatico.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    font-weight: 1000;
+}
+
+img{
+    display: block;
+    width: 10%;
+    height: 10%;
+    border-radius: 100%;
+    box-shadow: 0 0 10px #1ac6d8;
+}
+
+.centrar{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1{
+    text-align: center;
+    color: white;
+    font-weight: 1000;
+    text-shadow: 0 0 10px #000000;
+}
+
+h2{
+    text-align: center;
+    color: white;
+    font-weight: 1000;
+    text-shadow: 0 0 10px #000000;
+}
+
+nav{
+    padding: 30px;
+    padding: 10px;
+}
+
+nav ol{
+    list-style-type: none;
+    text-align: center;
+}
+
+nav li{
+    display: inline;
+    margin-right: 40px;
+    color: black;
+    font-weight: 1000;
+    background-color: #d1c8c8;
+    padding: 20px;
+    height: 50px;
+    width: 50px;
+    border-radius: 20px;
+    border: 1px solid #f2f2f2;
+    background-position: center;
+    background-size: 40%;
+    margin: 1rem;
+    box-shadow: 0 0 4px #000000;
+}
+
+nav li:hover{
+    background-color: white;
+    transition: .5s;
+}
+
+nav a{
+    text-decoration: none;
+}
+
+P{
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-weight: 1000;
+    text-shadow: 0 0 10px #000000;
+}
