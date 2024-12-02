@@ -16,8 +16,12 @@ img{
     box-shadow: 0 0 10px #1ac6d8;
 }
 
+.Anderson{
+    text-align: left;
+    padding: 10px;
+}
 
-.lol{
+.Paula{
     text-align: left;
 }
 
@@ -25,12 +29,16 @@ img{
     text-align: left;
 }
 
-.Loco{
+.Francisco{
     text-align: left;
 }
 
+.loco{
+    text-align: center;
+}
+
 .plato{
-    text-align: left;
+    text-align: center;
 }
 
 .centrar{
